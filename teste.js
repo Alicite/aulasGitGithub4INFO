@@ -1,1 +1,1 @@
-console.log("Conflitos resolvidos")
+console.log("Hoje eu não quero saber de conflitos!")
