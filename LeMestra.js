@@ -2,5 +2,4 @@ const helloWorld = (nome) => {
     return `Olá, ${nome}!`
 }
 
-let info = helloWorld("4INFO3")
-console.log(info)
+console.log(helloWorld("4INFO3"))
