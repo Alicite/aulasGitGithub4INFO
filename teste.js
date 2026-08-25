@@ -1,3 +1,6 @@
 console.log("Hoje eu não quero saber de conflitos!")
+console.log("Guilherme passou por aqui")
 console.log("LeMestra passou aqui")
 console.log("Nathan foi visto por aqui")
+console.log("Passei por aqui akakakakakak")
+console.log("augustocesar26-droid")
